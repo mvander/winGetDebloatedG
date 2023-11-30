@@ -86,10 +86,6 @@ winget uninstall Microsoft.GetHelp_8wekyb3d8bbwe --accept-source-agreements --si
 : OneDrive
 winget uninstall Microsoft.OneDrive --accept-source-agreements --silent
 
-: Calculator (reinstall with winget install calculator)
-winget uninstall Microsoft.WindowsCalculator_8wekyb3d8bbwe --accept-source-agreements --silent
-
-
 : Windows 11 Bloatware
 
 : Microsoft TO Do
